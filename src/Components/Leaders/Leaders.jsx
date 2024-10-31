@@ -2,7 +2,7 @@ import React, { useRef } from 'react'
 import './Leaders.css'
 import next_icon from '../../assets/next-icon.png'
 import back_icon from '../../assets/back-icon.png'
-import user_1 from '../../assets/user-1.png'
+import user_1 from '../../assets/proud.png'
 import user_2 from '../../assets/user-2.png'
 import user_3 from '../../assets/user-3.png'
 import user_4 from '../../assets/user-3.png'
@@ -44,8 +44,8 @@ const Leaders = () => {
                             </div>
                         </div>
                         <p>
-                            Proud morena birn in mamelodi married to Raesibe Morena.
-                            What what what
+                            Proud Morena is married to Raesibe Morena.
+                            he is good
                         </p>
                     </div>
 
@@ -76,7 +76,7 @@ const Leaders = () => {
                             </div>
                         </div>
                         <p>
-                           Selasie birn in mamelodi married to Lesedi.
+                           Selasie born in mamelodi married to Lesedi.
                            What what what
                         </p>
                     </div>
@@ -86,12 +86,12 @@ const Leaders = () => {
                         <div className="info">
                             <img src={user_4} alt=''/>
                             <div>
-                                <h3>Selasie Seade</h3>
+                                <h3>Tebogo Letswalo</h3>
                                 <span>Elder</span>
                             </div>
                         </div>
                         <p>
-                           Selasie birn in mamelodi married to Lesedi.
+                            Tebogo Letswalo birn in mamelodi married to Norokia.
                            What what what
                         </p>
                     </div>
