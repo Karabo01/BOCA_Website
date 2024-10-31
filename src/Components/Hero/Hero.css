@@ -16,14 +16,20 @@
 
 }
 
-.hero-text h1{
+.hero-text {
     font-size: 60px;
     font-weight: 600;
+    padding-top:100px;
+    cursor: pointer;
 }
 
+.hero-text button{
+    top: 100px;
+}
 .hero-text p{
+    
     max-width: 700px;
-    margin: 10px auto 20px;
+    margin: 15px auto 20px;
     line-height: 1.4;
 }
 /* media query*/

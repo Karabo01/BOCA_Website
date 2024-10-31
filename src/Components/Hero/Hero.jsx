@@ -1,14 +1,15 @@
 import React from 'react'
 import './Hero.css'
 import dark_arrow from '../../assets/dark-arrow.png'
+import { Link } from 'react-scroll'
 
 const Hero = () => {
   return (
     <div className='hero container'>
         <div className='hero-text'>
-            <h1>Jesus is Lord</h1>
-            <p>we de bestapknsdpaksdnapskdnasda</p>
-            <button className='btn'>Explore more <img src={dark_arrow} alt="" /></button>
+            
+        <a href="https://www.youtube.com/@BodyOfChristAssembly-dt9fd"><button className='btn'>Watch a Sermon <img src={dark_arrow} alt="" /></button></a>
+        
         </div>
     </div>
   )
